@@ -15,3 +15,5 @@
 
 ## for 4-pin to 7-pin Conversion
 https://www.etrailer.com/faq-etbc7.aspx
+
+Question: [Difference Between a 4-Way and 7-Way Trailer Connector?](https://www.etrailer.com/question-136174.html)
