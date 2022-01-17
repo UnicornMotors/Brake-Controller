@@ -8,7 +8,10 @@ supplier:
 [Amazon](https://www.amazon.com/dp/B019QCXOCI)  
 58.25
 
-## model:
+## model: C57674
+Missing:
+- Wires, duplex
+
 [eTrailer](https://www.etrailer.com/Trailer-Wiring/CURT/C57674.html)
 - 52.76
 
