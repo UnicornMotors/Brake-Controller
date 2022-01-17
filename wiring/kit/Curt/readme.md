@@ -7,3 +7,9 @@ Missing:
 supplier:
 [Amazon](https://www.amazon.com/dp/B019QCXOCI)  
 58.25
+
+## model:
+[eTrailer](https://www.etrailer.com/Trailer-Wiring/CURT/C57674.html)
+- 52.76
+
+[review:](https://youtu.be/yXrgUt4BQs0)
