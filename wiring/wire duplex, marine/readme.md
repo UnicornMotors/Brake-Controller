@@ -1,4 +1,4 @@
-# 10 Gauge
+# 12 Gauge
 [GS Power Marine Wire – 50ft, 12 AWG, Red and Black Sheathed, Tinned Copper Duplex Boat Wire](https://www.amazon.com/dp/B0799K17WS)
 - [41.95 50' (0.84/ft)](https://www.amazon.com/dp/B0799K17WS)
 - [69.96 100' (0.70/ft)](https://www.amazon.com/dp/B0799K17WS)
