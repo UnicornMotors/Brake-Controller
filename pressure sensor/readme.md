@@ -1,2 +1,3 @@
 - https://www.youtube.com/results?search_query=brake+controller+pressure+sensor
 - https://www.youtube.com/results?search_query=brake+controller+pressure+switch
+- https://www.google.com/search?q=proportional+brake+controller+sensor
