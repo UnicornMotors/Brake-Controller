@@ -1,6 +1,6 @@
-# model: 38630
-- 30-Amp
+# 30-Amp
 
+model: 38630  
 [from: eTrailer](https://www.etrailer.com/Accessories-and-Parts/Pollak/38630.html)
 $4.16  
 + 5 shipping
