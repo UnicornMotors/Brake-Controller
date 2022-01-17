@@ -1,4 +1,6 @@
 # sch:
+- https://www.amazon.com/s?k=duplex+marine+wire
+12 AWG / 2 strand
 - https://www.amazon.com/s?k=12%2F2+AWG+Duplex
 
 # 12 Gauge
