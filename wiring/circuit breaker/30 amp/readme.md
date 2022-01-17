@@ -2,8 +2,7 @@
 
 ## specialty store
 model: 38630
-[from: eTrailer](https://www.etrailer.com/Accessories-and-Parts/Pollak/38630.html)
-$4.16  
+[4.16 eTrailer](https://www.etrailer.com/Accessories-and-Parts/Pollak/38630.html)
 + 5 shipping
 
 ## Amazon
