@@ -5,6 +5,12 @@
 [50 ft 2 rolls, red & black](https://www.amazon.com/Gauge-Ground-Primary-Stranded-Copper/dp/B01C7O7Z68)
 - 23
 
+## 12 Gauge
+### Copper Clad Aluminum
+###### 6 Pack 12V 100'FT
+[6 Pack 12V 100'FT per Roll (600 ft Total) 12 Gauge Auto Wire Copper Clad Aluminium](https://www.amazon.com/Gauge-Combo-Copper-Aluminium-Voltage/dp/B088QM6SHH)
+- 49.97
+
 # duplex
 ## 10 Gauge
 ### Solid Copper
