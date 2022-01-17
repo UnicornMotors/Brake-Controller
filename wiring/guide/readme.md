@@ -1,7 +1,8 @@
 # Guide
 - https://www.etrailer.com/faq-wiring.aspx
 - https://www.etrailer.com/faq-brakecontroller.aspx
-- 
+- https://www.etrailer.com/faq-installation-of-brake-controller-from-scratch.aspx
+
 >INSTALLATION
 >
 >Vehicles with 7-way: A vehicle-specific wiring adapter is often available so you can avoid hardwiring the controller and just plug-and-play. Use our brake controller fitguide to see recommended adapters for your vehicle.
