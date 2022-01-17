@@ -4,6 +4,6 @@
 61.16
 
 ## model: Curt 57186
-Amazon
+### Amazon
 [Curt 57186](https://www.amazon.com/dp/B019QCXOCI)  
-$58.25
+58.25
