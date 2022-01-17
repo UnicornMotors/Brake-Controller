@@ -18,9 +18,6 @@
 ##### 100'
 
 ##### 25'
-[Bullz Audio BPES10.25 25' True 10 Gauge](https://www.amazon.com/Bullz-Audio-BPES10-25-Gauge-Speaker/dp/B0149VC6KC)
-- 12.20
-
 
 ## 12 Gauge
 #### Marine wire
