@@ -1,9 +1,10 @@
 # 30-Amp
 
 ## specialty store
-model: 38630
+
 [4.16 eTrailer](https://www.etrailer.com/Accessories-and-Parts/Pollak/38630.html)
 + 5 shipping
+- brand: Pollak, model: 38630
 
 ## Amazon
 **single**
