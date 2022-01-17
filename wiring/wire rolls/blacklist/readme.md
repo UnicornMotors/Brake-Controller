@@ -63,6 +63,7 @@ BEWARE! PAY ATTENTION! If you think you are getting real 10 GA wire you will be 
 3 people found this helpful
 
 ##
+[Bad Reviews:](https://www.amazon.com/product-reviews/B0149VC6KC)
 
 	R or C Driskill
 1.0 out of 5 stars TOTAL GARBAGE!
