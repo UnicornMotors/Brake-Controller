@@ -16,8 +16,6 @@
 ### Solid Copper
 #### Speaker wire
 ##### 100'
-[100 ft 10 Gauge awg Red Black Stranded 2 Conductor Speaker Wire](https://www.amazon.com/Gauge-Black-Stranded-Conductor-Speaker/dp/B00J357DGW)
-- 39.95
 
 ##### 25'
 [Bullz Audio BPES10.25 25' True 10 Gauge](https://www.amazon.com/Bullz-Audio-BPES10-25-Gauge-Speaker/dp/B0149VC6KC)
