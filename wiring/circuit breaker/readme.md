@@ -7,3 +7,5 @@
 >
 >See also etrailer.com's exclusive 7- and 4-way brake control installation kit (ETBC7 - sold separately) if you don't already have a 7-way plug at the back of your vehicle.
 
+# index:
+https://www.etrailer.com/dept-pg-Accessories_and_Parts-pt-Circuit_Breaker.aspx
