@@ -1,3 +1,6 @@
+# sch:
+- https://www.amazon.com/s?k=12%2F2+AWG+Duplex
+
 # 12 Gauge
 [GS Power Marine Wire – 50ft, 12 AWG, Red and Black Sheathed, Tinned Copper Duplex Boat Wire](https://www.amazon.com/dp/B0799K17WS)
 - [41.95 50' (0.84/ft)](https://www.amazon.com/dp/B0799K17WS)
