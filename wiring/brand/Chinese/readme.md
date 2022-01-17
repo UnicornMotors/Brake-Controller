@@ -6,6 +6,7 @@ Bought together: 76.49
 - [Reese Towpower 8508211 Brake Control (Proportional BRAKE-EVN)](https://www.amazon.com/Reese-Towpower-8508211-Proportional-Brake-EVN/dp/B01M59QRWK) 52.50
 
 ## [Hopkins 47185 Multi-Tow 4 Flat to 7 Blade and 4 Flat Adapter](https://www.amazon.com/Hopkins-Towing-Solutions-47185-EMW8134058/dp/B0002Q80GS)
+- **Evoked:** True!
 26.08
 
 ## [CURT 57672 Dual-Output 4-Way Flat Vehicle-Side to 7-Way RV Blade Trailer Wiring Adapter](https://www.amazon.com/57672-4-Way-Dual-Output-Electrical-Adapter/dp/B001EP0HPI)
