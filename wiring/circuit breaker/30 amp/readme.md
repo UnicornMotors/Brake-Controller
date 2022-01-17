@@ -6,6 +6,7 @@ $4.16
 + 5 shipping
 
 ## Amazon
+**single**
 Busman
 [7.46](https://www.amazon.com/Bussmann-CBC-30B-Circuit-Automotive-Terminals/dp/B001PYQVMG)
 
