@@ -1,6 +1,8 @@
 # Blacklist
 [100 ft 10 Gauge awg Red Black Stranded 2 Conductor Speaker Wire](https://www.amazon.com/Gauge-Black-Stranded-Conductor-Speaker/dp/B00J357DGW)
 - 39.95
+- [Bad Reviews:](https://www.amazon.com/product-reviews/B00J357DGW)
+
 
 	Edward Hudley
 1.0 out of 5 stars NOT 10 Gauge!!
