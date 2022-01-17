@@ -11,3 +11,9 @@
 #### Speaker wire
 [100 ft 10 Gauge awg Red Black Stranded 2 Conductor Speaker Wire](https://www.amazon.com/Gauge-Black-Stranded-Conductor-Speaker/dp/B00J357DGW)
 - 39.95
+
+## 12 Gauge
+#### Marine wire
+[GS Power Marine Wire – 100ft, 12 AWG, Red and Black Sheathed, Tinned Copper Duplex Boat Wire](https://www.amazon.com/GS-Power-Marine-Wire-Sheathed/dp/B0799HXMDQ)
+- 100 ft, 69.95
+- [50 ft](https://www.amazon.com/GS-Power-Marine-Wire-Sheathed/dp/B0799K17WS), 41.95
