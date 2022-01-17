@@ -62,7 +62,9 @@ Reviewed in the United States on August 17, 2016
 BEWARE! PAY ATTENTION! If you think you are getting real 10 GA wire you will be disappointed! I'm not sure what else 10 Gauge could possibly mean but they have made up their own system to deceive people and sell them less wire then they think they are getting. The copper in this wire measures out to 12 AWG (American Wire Gauge) not 10 AWG. Copper is expensive, they are saving money and taking advantage of people's ignorance of electronics. Get a cheap pair of digital calipers and put them in your toolbox. When you buy wire, measure the diameter of the COPPER ONLY. 10 Gauge wire should be approx. 2.5mm in diameter. 12 gauge is 2.05mm in diameter. Unfortunately you can't trust many offshore manufacturers anymore. Arm yourself with the right tools and knowledge to protect your wallet.
 3 people found this helpful
 
-##
+## [Bullz Audio BPES10.25 25' True 10 Gauge](https://www.amazon.com/Bullz-Audio-BPES10-25-Gauge-Speaker/dp/B0149VC6KC)
+- 12.20
+
 [Bad Reviews:](https://www.amazon.com/product-reviews/B0149VC6KC)
 
 	R or C Driskill
