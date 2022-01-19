@@ -11,5 +11,5 @@ supplier:
 - https://www.amazon.com/Gardner-Bender-20-108-terminal-Yellow/dp/B000FP8F1G
     - Fast delivery
 
-### Slow shipping, not Amazon Prime
 https://www.amazon.com/Terminals-RING-TNG-STUD-10-12/dp/B005T8IVBS
+    - Slow shipping, not Amazon Prime
