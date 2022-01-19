@@ -4,7 +4,8 @@ https://www.amazon.com/s?k=Terminals&i=industrial&rh=n%3A16310091%2Cn%3A30650601
 
 ## supplier:
 ### Fast delivery
-https://www.amazon.com/Ancor-230226-Electrical-Insulated-Insulation/dp/B000NI1GWU
+- https://www.amazon.com/Ancor-230226-Electrical-Insulated-Insulation/dp/B000NI1GWU
+- https://www.amazon.com/Gardner-Bender-20-108-terminal-Yellow/dp/B000FP8F1G
 
 ### Slow shipping, not Amazon Prime
 https://www.amazon.com/Terminals-RING-TNG-STUD-10-12/dp/B005T8IVBS
